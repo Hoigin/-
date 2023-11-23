@@ -1,2 +1,2 @@
 # - Read Me
-中山大学物理系基础物理实验报告模板
+This is a mini college physics experiment report template based on the elementary physics experiment course of school of physics and astronomy, Sun Yat-Sen University. A markdown version and a latex version are given. For simplicity and aesthetic consideration, Typora is recommended to open and use the md. file. Besides, only a tex. file is needed to download for the aim of as convenient use as possible.
